@@ -2,7 +2,7 @@ Hi there 👋, Welcome to my Github page!
 
 
 <details>
-<summary>My top languages</summary>
+<summary>My top languages:</summary>
 
 | Rank | Languages |
 |-----:|-----------|
